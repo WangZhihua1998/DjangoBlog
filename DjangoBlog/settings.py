@@ -50,12 +50,12 @@ INSTALLED_APPS = [
     'django.contrib.sitemaps',
     'mdeditor',
     'haystack',
-    'blog',
-    'accounts',
-    'comments',
-    'oauth',
-    'servermanager',
-    'owntracks',
+    'blog.apps.BlogConfig',
+    'accounts.apps.AccountsConfig',
+    'comments.apps.CommentsConfig',
+    'oauth.apps.OauthConfig',
+    'servermanager.apps.ServermanagerConfig',
+    'owntracks.apps.OwntracksConfig',
     'compressor'
 ]
 

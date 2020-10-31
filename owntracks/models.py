@@ -15,6 +15,7 @@ class OwnTrackLog(models.Model):
 
     class Meta:
         ordering = ['created_time']
-        verbose_name = "OwnTrackLogs"
+        # verbose_name = "OwnTrackLogs"
+        verbose_name = "轨迹日志"
         verbose_name_plural = verbose_name
         get_latest_by = 'created_time'
