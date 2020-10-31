@@ -58,6 +58,8 @@ docs/_build/
 # PyBuilder
 target/
 
+# VSCode
+.vscode/
 
 # PyCharm
 # http://www.jetbrains.com/pycharm/webhelp/project.html
