@@ -55,7 +55,6 @@ INSTALLED_APPS = [
     'comments.apps.CommentsConfig',
     'oauth.apps.OauthConfig',
     'servermanager.apps.ServermanagerConfig',
-    'owntracks.apps.OwntracksConfig',
     'compressor'
 ]
 
