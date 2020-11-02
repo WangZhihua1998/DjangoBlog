@@ -37,3 +37,4 @@ rjsmin==1.1.0
 WeRoBot==1.12.0
 Whoosh==2.7.4
 gevent==1.4.0
+django-simpleui>2.1.0
